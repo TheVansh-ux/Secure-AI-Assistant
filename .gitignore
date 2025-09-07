@@ -1,0 +1,11 @@
+# Virtual Environment folder
+venv/
+
+# Python cache files
+__pycache__/
+
+# Personal biometric data
+face_data/known_face.npy
+
+# Temporary gTTS audio files
+*.mp3
